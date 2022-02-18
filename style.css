@@ -1,0 +1,36 @@
+body{
+    /* background-image: ; */
+    background-color: black;
+}
+
+
+.main-container{
+    display: flex;
+    height: 1000vh;
+}
+
+.box{
+    width:33.33vw;
+    padding: 0 2vw;
+    margin: 0 1px;
+    text-decoration: underline;
+}
+
+
+.content{
+
+    margin-left: 0;
+    background-color: white;
+    /* border: 1px solid black;  */
+    color: blue;
+}
+
+.pseudo-code{
+    background-color: cyan;
+    color: white;
+}
+
+.simulator{
+    background-color: blue;
+    color: cyan;
+}
